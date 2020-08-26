@@ -1,7 +1,7 @@
 Ni Rui's GitHub Profile
 ----
 
-Welcome to my profile page. I'm a software developer based in P.R.China. I use GitHub to host and share some of my projects. Hope you found some of them useful :)
+Welcome to my profile page. I'm a software developer based in P.R.China. I use GitHub to host some of my project and codes, hope they are useful to you as well :)
 
 <table align="center">
     <tr>
@@ -25,7 +25,7 @@ Welcome to my profile page. I'm a software developer based in P.R.China. I use G
                 :briefcase: Projects
             </a>
         <td>
-            <a href="https://github.com/nirui/nirui/blob/master/Document/Service/PublicRate.pdf" target="_blank">
+            <a href="https://github.com/nirui/nirui/blob/master/Document/Service/PublicRate_China.pdf" target="_blank">
                 :receipt: 服务价格 (China-specific)
             </a>
         </td>
