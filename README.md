@@ -3,7 +3,7 @@ Ni Rui's GitHub Profile
 
 Welcome to my profile page. I'm a software developer based in P.R.China. I use GitHub to host and share some of my projects. Hope you found some of them useful :)
 
-<table align="center" style="font-size: 15px; text-align: center; display: inline">
+<table align="center">
     <tr>
         <td>
             <img src="https://vaguly.com/favicon.ico" width="16px" height="16px">
