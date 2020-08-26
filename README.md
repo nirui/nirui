@@ -1,5 +1,5 @@
 Ni Rui's GitHub Profile
-----
+====
 
 Welcome to my profile page. I'm a software developer based in P.R.China. I use GitHub to host some of my project and codes, hope they are useful to you as well :)
 
