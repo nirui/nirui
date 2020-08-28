@@ -1,6 +1,10 @@
 Ni Rui's GitHub Profile
 ====
 
+<p align="center">
+    <img src="https://github.com/nirui/nirui/raw/master/Wonder.png" />
+</p>
+
 Welcome to my profile page. I'm a software developer based in P.R.China. I use GitHub to host some of my project and codes, hope they are useful to you as well :)
 
 <table align="center">
