@@ -10,8 +10,10 @@ Welcome to my profile page. I'm a software developer based in P.R.China. I use G
 <table align="center">
     <tr>
         <td>
-            <img src="https://vaguly.com/favicon.ico" width="16px" height="16px">
-            <a href="https://vaguly.com" target="_blank">Portfolio</a>
+            <a href="https://nirui.org" target="_blank">
+                <img src="https://nirui.org/favicon.ico" width="16px" height="16px">
+                Portfolio
+            </a>
         </td>
         <td>
             <a href="https://www.linkedin.com/in/nirui" target="_blank">
