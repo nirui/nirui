@@ -27,9 +27,10 @@ Welcome to my profile page. I'm a software developer based in P.R.China. I use G
             </a>
         </td>
         <td>
-            <a href="https://vaguly.com/projects" target="_blank">
+            <a href="https://nirui.org/projects" target="_blank">
                 :briefcase: Projects
             </a>
+        </td>
         <td>
             <a href="https://github.com/nirui/nirui/blob/master/Document/Service/PublicRate_China.pdf" target="_blank">
                 :receipt: 服务价格 (China-specific)
